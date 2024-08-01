@@ -89,7 +89,7 @@ A **GugaLabs** não se responsabiliza por:
 
 ## 10. Encarregado de Proteção de Dados
 
-Se tiver dúvidas ou preocupações sobre esta Política de Privacidade ou sobre o tratamento dos seus dados pessoais, entre em contato com nosso encarregado de proteção de dados pelo e-mail [suporte@gugalabs.com](mailto:suporte@gugalabs.com).
+Se tiver dúvidas ou preocupações sobre esta Política de Privacidade ou sobre o tratamento dos seus dados pessoais, entre em contato com nosso encarregado de proteção de dados pelo e-mail [sacgugalabs@gmail.com](mailto:sacgugalabs@gmail.com).
 
 ---
 
