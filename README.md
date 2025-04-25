@@ -38,7 +38,7 @@ Você, como titular dos dados, tem direitos garantidos pela LGPD, incluindo:
 
 ## 4. Exercício de Direitos
 
-Para exercer seus direitos de titular, entre em contato conosco pelo e-mail [suporte@gugalabs.com](mailto:suporte@gugalabs.com). Podemos solicitar informações adicionais para confirmar sua identidade e garantir a segurança no tratamento dos dados.
+Para exercer seus direitos de titular, entre em contato conosco pelo e-mail [sacgugalabs@ggmail.com](mailto:sacgugalabs@gmail.com). Podemos solicitar informações adicionais para confirmar sua identidade e garantir a segurança no tratamento dos dados.
 
 ---
 
